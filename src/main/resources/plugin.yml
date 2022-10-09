@@ -1,0 +1,4 @@
+name: ImmortalTagsAPI
+version: '${version}'
+main: net.immortal.immortaltagsapi.ImmortalTagsAPI
+api-version: 1.19
