@@ -1,4 +1,4 @@
 name: ImmortalTagsAPI
 version: '${version}'
-main: net.immortal.immortaltagsapi.ImmortalTagsAPI
+main: net.immortal.ImmortalTagsAPI
 api-version: 1.19
