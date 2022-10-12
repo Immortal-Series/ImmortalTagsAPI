@@ -1,6 +1,4 @@
-plugins {
-    id 'java'
-}
+plugins { id 'java' }
 
 group = 'net.immortal'
 version = '1.0-SNAPSHOT'
