@@ -1,13 +1,13 @@
-package net.immortal.events;
+package net.immortal.tagsapi.events;
 
-import net.immortal.objects.ImmortalDataPlayer;
+import net.immortal.tagsapi.objects.ImmortalDataPlayer;
 import org.bukkit.entity.Player;
 import org.bukkit.event.HandlerList;
 
-public class TagEquipEvent extends TagEvent {
+public class TagColorEvent extends TagEvent {
     private static final HandlerList HANDLERS = new HandlerList();
 
-    public TagEquipEvent(Player paramPlayer, ImmortalDataPlayer paramImmortalDataPlayer, boolean paramBoolean) {
+    public TagColorEvent(Player paramPlayer, ImmortalDataPlayer paramImmortalDataPlayer, boolean paramBoolean) {
         super(paramPlayer, paramImmortalDataPlayer, paramBoolean);
     }
 
@@ -19,3 +19,4 @@ public class TagEquipEvent extends TagEvent {
         return HANDLERS;
     }
 }
+

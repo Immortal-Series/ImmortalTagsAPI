@@ -1,4 +1,4 @@
-package net.immortal.objects;
+package net.immortal.tagsapi.objects;
 
 import org.bukkit.inventory.ItemStack;
 

@@ -1,6 +1,6 @@
-package net.immortal.events;
+package net.immortal.tagsapi.events;
 
-import net.immortal.objects.ImmortalDataPlayer;
+import net.immortal.tagsapi.objects.ImmortalDataPlayer;
 import org.bukkit.entity.Player;
 import org.bukkit.event.HandlerList;
 

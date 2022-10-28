@@ -1,6 +1,6 @@
-package net.immortal;
+package net.immortal.tagsapi;
 
-import net.immortal.objects.ImmortalDataManager;
+import net.immortal.tagsapi.objects.ImmortalDataManager;
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.Plugin;
 
